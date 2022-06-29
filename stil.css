@@ -1,0 +1,47 @@
+html {
+	margin: 10px;
+	padding:10px;
+
+}
+body {
+	padding: 5px;
+	margin: 5px;
+	font-size: 1em;
+}
+h1 {
+	color: blue ;
+	text-align: center;
+	padding: 10px 0px 20px ;
+	margin: 0px 0px 10px;
+
+}
+h1 span {
+	border: 5px double;
+	border-radius: 30px;
+	padding: 25px;
+}
+section {
+	background-color: white;
+	padding: 15px;
+
+}
+form {
+	text-align: center ;
+	margin: 0 auto;
+}
+input, textarea {
+	margin-bottom: 10px ;
+	padding: 15px 10px 10px;
+	border: 1px solid  ;
+	width: 70% ;
+	background-color: grey ;
+	border-radius: 30px ;
+	box-sizing: border-box;: 
+
+}
+.submit : hover 
+{
+	color: blue;
+	background-color: green ;
+
+}
