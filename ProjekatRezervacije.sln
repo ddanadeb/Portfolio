@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjekatRezervacije", "ProjekatRezervacije.csproj", "{EF4010A4-DC45-490A-8903-1A428DAAC31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4010A4-DC45-490A-8903-1A428DAAC31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4010A4-DC45-490A-8903-1A428DAAC31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4010A4-DC45-490A-8903-1A428DAAC31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4010A4-DC45-490A-8903-1A428DAAC31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229E87C3-9E5E-4CA4-B005-661FA22BBD35}
+	EndGlobalSection
+EndGlobal
